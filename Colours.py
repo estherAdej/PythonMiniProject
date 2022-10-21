@@ -11,7 +11,7 @@ for colours in list_colours:
 # ask user to add a colour
 list_colours == input("please pick colour: ")
 
-if colours == ('red','orange', 'yellow'):
+if list_colours == ('red','orange', 'yellow'):
 
     print ('yellow' + "hmm okay, pick a number from 1-10: ")
 
@@ -25,13 +25,13 @@ while control <=1 :
     var1 =int(input("please enter a number: "))
     control = var1
 
-num = int(input("pick a number between 1-3: "))
-if num == 1:
+var1 = int(input("pick a number between 1-3: "))
+if var1 == 1:
     print ('you are not cool')
-elif num == 2:
+elif var1 == 2:
     print ('you are moderately cool')
 
-elif num == 3:
+elif var1 == 3:
     print('you are very cool')
 else:
     print('please follow the rules friend')
