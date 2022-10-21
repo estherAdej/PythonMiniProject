@@ -21,4 +21,4 @@ my learning outcomes
 4)Syntax errors were designed to waste time
 5)while loops and for loops have infinite power
 
-
+NEVERMIND I FIXED IT
